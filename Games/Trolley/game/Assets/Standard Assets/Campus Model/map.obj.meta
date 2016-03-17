@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 54c46d4d3521d2f4c81219fce9c0af0f
+timeCreated: 1427084986
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Building
+    100004: BusStop
+    100006: Fence
+    100008: Forest
+    100010: //RootNode
+    100012: Pool
+    100014: RetainingWall
+    100016: Road
+    100018: RoadArea
+    100020: RoadConnector
+    100022: RoadJunction
+    100024: SurfaceArea
+    100026: SurfaceParking
+    100028: Tunnel
+    100030: Waterway
+    400000: Bridge
+    400002: Building
+    400004: BusStop
+    400006: Fence
+    400008: Forest
+    400010: //RootNode
+    400012: Pool
+    400014: RetainingWall
+    400016: Road
+    400018: RoadArea
+    400020: RoadConnector
+    400022: RoadJunction
+    400024: SurfaceArea
+    400026: SurfaceParking
+    400028: Tunnel
+    400030: Waterway
+    2300000: Bridge
+    2300002: Building
+    2300004: BusStop
+    2300006: Fence
+    2300008: Forest
+    2300010: Pool
+    2300012: RetainingWall
+    2300014: Road
+    2300016: RoadArea
+    2300018: RoadConnector
+    2300020: RoadJunction
+    2300022: SurfaceArea
+    2300024: SurfaceParking
+    2300026: Tunnel
+    2300028: Waterway
+    3300000: Bridge
+    3300002: Building
+    3300004: BusStop
+    3300006: Fence
+    3300008: Forest
+    3300010: Pool
+    3300012: RetainingWall
+    3300014: Road
+    3300016: RoadArea
+    3300018: RoadConnector
+    3300020: RoadJunction
+    3300022: SurfaceArea
+    3300024: SurfaceParking
+    3300026: Tunnel
+    3300028: Waterway
+    4300000: Bridge
+    4300002: Building
+    4300004: BusStop
+    4300006: Fence
+    4300008: Forest
+    4300010: Pool
+    4300012: RetainingWall
+    4300014: Road
+    4300016: RoadArea
+    4300018: RoadConnector
+    4300020: RoadJunction
+    4300022: SurfaceArea
+    4300024: SurfaceParking
+    4300026: Tunnel
+    4300028: Waterway
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
