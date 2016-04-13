@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: dfb7bffb3cf7d1f4396c2384035de549
+timeCreated: 1460317664
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: achse
+    100002: achse_schrauben
+    100004: brett
+    100006: kugellager
+    100008: kugellager_001
+    100010: kugellager_001_MeshPart0
+    100012: kugellager_001_MeshPart1
+    100014: kugellager_001_MeshPart2
+    100016: kugellager_MeshPart0
+    100018: kugellager_MeshPart1
+    100020: lager
+    100022: lager_bolt
+    100024: metall
+    100026: metall_schrauben
+    100028: metall_schrauben_MeshPart0
+    100030: metall_schrauben_MeshPart1
+    100032: metall_schrauben_MeshPart2
+    100034: metall_schrauben_MeshPart3
+    100036: Plane
+    100038: rollen
+    100040: //RootNode
+    400000: achse
+    400002: achse_schrauben
+    400004: brett
+    400006: kugellager
+    400008: kugellager_001
+    400010: kugellager_001_MeshPart0
+    400012: kugellager_001_MeshPart1
+    400014: kugellager_001_MeshPart2
+    400016: kugellager_MeshPart0
+    400018: kugellager_MeshPart1
+    400020: lager
+    400022: lager_bolt
+    400024: metall
+    400026: metall_schrauben
+    400028: metall_schrauben_MeshPart0
+    400030: metall_schrauben_MeshPart1
+    400032: metall_schrauben_MeshPart2
+    400034: metall_schrauben_MeshPart3
+    400036: Plane
+    400038: rollen
+    400040: //RootNode
+    2300000: achse
+    2300002: achse_schrauben
+    2300004: brett
+    2300006: kugellager_001_MeshPart0
+    2300008: kugellager_001_MeshPart1
+    2300010: kugellager_001_MeshPart2
+    2300012: kugellager_MeshPart0
+    2300014: kugellager_MeshPart1
+    2300016: lager
+    2300018: lager_bolt
+    2300020: metall
+    2300022: metall_schrauben_MeshPart0
+    2300024: metall_schrauben_MeshPart1
+    2300026: metall_schrauben_MeshPart2
+    2300028: metall_schrauben_MeshPart3
+    2300030: Plane
+    2300032: rollen
+    3300000: achse
+    3300002: achse_schrauben
+    3300004: brett
+    3300006: kugellager_001_MeshPart0
+    3300008: kugellager_001_MeshPart1
+    3300010: kugellager_001_MeshPart2
+    3300012: kugellager_MeshPart0
+    3300014: kugellager_MeshPart1
+    3300016: lager
+    3300018: lager_bolt
+    3300020: metall
+    3300022: metall_schrauben_MeshPart0
+    3300024: metall_schrauben_MeshPart1
+    3300026: metall_schrauben_MeshPart2
+    3300028: metall_schrauben_MeshPart3
+    3300030: Plane
+    3300032: rollen
+    4300000: Plane
+    4300002: achse_schrauben
+    4300004: achse
+    4300006: brett
+    4300008: kugellager_001_MeshPart0
+    4300010: kugellager_001_MeshPart1
+    4300012: kugellager_001_MeshPart2
+    4300014: kugellager_MeshPart0
+    4300016: kugellager_MeshPart1
+    4300018: lager_bolt
+    4300020: lager
+    4300022: metall_schrauben_MeshPart0
+    4300024: metall_schrauben_MeshPart1
+    4300026: metall_schrauben_MeshPart2
+    4300028: metall_schrauben_MeshPart3
+    4300030: metall
+    4300032: rollen
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

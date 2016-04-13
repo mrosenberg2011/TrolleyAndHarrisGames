@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Trolley.unity
+  isLoaded: 1
+  isActive: 1
